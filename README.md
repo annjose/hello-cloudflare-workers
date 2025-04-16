@@ -1,10 +1,13 @@
+## Commands
+Install dependencies and run the worker locally
 ```
-npm install
-npm run dev
+pnpm install
+pnpm run dev
 ```
 
+Deploy the worker
 ```
-npm run deploy
+pnpm run deploy
 ```
 
 This worker is deployed to https://hello-cloudflare-workers.annjose.workers.dev/
