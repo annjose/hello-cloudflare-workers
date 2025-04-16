@@ -1,5 +1,5 @@
 {
-	"name": "cfworker-sample",
+	"name": "hello-cloudflare-workers",
 	"scripts": {
 		"dev": "wrangler dev",
 		"deploy": "wrangler deploy --minify",

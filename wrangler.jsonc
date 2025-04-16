@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "cfworker-sample",
+	"name": "hello-cloudflare-workers",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-04-16",
 	"assets": {
